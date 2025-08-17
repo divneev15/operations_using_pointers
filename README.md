@@ -183,6 +183,4 @@ Pointers are a **powerful feature of C++** that allow direct access to memory, u
 
 Mastering pointers builds confidence in **memory management, data structure implementation, and efficient program design**.
 
----
 
-Do you want me to also **write small sample code snippets** (C++ examples) for each algorithm so it looks like a **lab manual with explanation + code**?
